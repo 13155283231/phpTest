@@ -47,7 +47,7 @@ $contacts = $db->all();
 <div class="container">
     <div class="content">
         <h1>
-            PHP-Apache-Mysql-Sample 哈哈示例
+            PHP-Apache-Mysql-Sample 哈哈1示例
         </h1>
         <table class="table">
             <caption>通讯录</caption>
